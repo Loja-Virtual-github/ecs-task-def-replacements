@@ -16,7 +16,7 @@ inputs:
   region:
     description: "aws region"
     required: false
-    default: "us-east-1"
+    default: "us-east-2"
 
 outputs:
   taskDef:
